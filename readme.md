@@ -6,9 +6,11 @@ This tool analyzes content categories on YouTube using AI categorization to trac
 
 The analysis is based on a subsample of YouTube videos from our analytics assets catalog.
 
-[Insert Chart 1: Views/Upload for Level 1 Categories]
+![Level 1 Categories Performance](./data/level1_categories.png)
+*Views/Upload for Level 1 Categories*
 
-[Insert Chart 2: Views/Upload for Level 2 Categories under 'Challenges & Games']
+![Challenges & Games Subcategories](./data/level2_categories.png)
+*Views/Upload for Level 2 Categories under 'Challenges & Games'*
 
 Data source: `data/category_performance_v2.xlsx`
 
@@ -21,16 +23,17 @@ Interactive Streamlit app with three features:
 
 ### Setup
 
-1. Create virtual environment
-2. Install dependencies:
+1. Clone the Repo
+2. Create virtual environment
+3. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-3. Create `.env` file:
+4. Create `.env` file:
    ```
    OPENAI_API_KEY=your_key_here
    ```
-4. Run the app:
+5. Run the app:
    ```bash
    streamlit run app_content_gap.py
    ```
