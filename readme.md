@@ -5,9 +5,9 @@ This tool analyzes content categories on YouTube using AI categorization to trac
 ## Content Gap App
 
 Interactive Streamlit app with three features:
-1. Generate video concepts, get AI categorization with top 3 similar categories, and content gap score
-2. Analyze user-provided video concepts
-3. Analyze video titles
+1. Generate video concepts, get AI categorization with top 3 similar categories, and assings content gap score
+2. Assings content gap score for user-provided video concepts
+3. Same for video titles
 
 *example analysis*
 ![example analysis](./data/example_01.png)
@@ -20,7 +20,7 @@ Interactive Streamlit app with three features:
    ```bash
    pip install -r requirements.txt
    ```
-4. Create `.env` file:
+4. Create `.env` file and add openai key (for concept/title generation):
    ```
    OPENAI_API_KEY=your_key_here
    ```
