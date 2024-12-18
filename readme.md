@@ -2,18 +2,6 @@
 
 This tool analyzes content categories on YouTube using AI categorization to track views and upload metrics. It identifies potential content opportunities by calculating views/upload scores for different categories.
 
-## Analysis Results
-
-The analysis is based on a subsample of YouTube videos from our analytics assets catalog.
-
-![Level 1 Categories Performance](./data/level1_categories.png)
-*Views/Upload for Level 1 Categories*
-
-![Challenges & Games Subcategories](./data/level2_categories.png)
-*Views/Upload for Level 2 Categories under 'Challenges & Games'*
-
-Data source: `data/category_performance_v2.xlsx`
-
 ## Content Gap App
 
 Interactive Streamlit app with three features:
@@ -37,3 +25,15 @@ Interactive Streamlit app with three features:
    ```bash
    streamlit run app_content_gap.py
    ```
+
+## Analysis Results
+
+The analysis is based on a subsample of YouTube videos from our analytics assets catalog.
+
+![Level 1 Categories Performance](./data/level1_categories.png)
+*Views/Upload for Level 1 Categories*
+
+![Challenges & Games Subcategories](./data/level2_categories.png)
+*Views/Upload for Level 2 Categories under 'Challenges & Games'*
+
+Data source: `data/category_performance_v2.xlsx`
