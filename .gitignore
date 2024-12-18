@@ -1,3 +1,4 @@
 myenv/
 junk/
+__pycache__/
 .env
