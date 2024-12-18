@@ -1,0 +1,304 @@
+{
+    "name": "Filmcore",
+    "ucid": "UCxc9V3B75Ps8JGx_27G4Dyg",
+    "bio": "Filmcore produces content that focuses on remaking, analyzing, and comparing popular films and characters, particularly within the science fiction and fantasy genres. The video content ranges from detailed size comparisons of iconic characters over time, to recreating iconic scenes with modern technology and scientific understanding, to creating original animations and narratives within popular universes.",
+    "titles": [
+        "EVOLUTION of KING KONG: Size Comparison (1933-2024)",
+        "GODZILLA vs KIRYU, GHIDORAH, MEGALON and GIGAN",
+        "Can I REMAKE the BEST GODZILLA Animation in 30 DAYS?",
+        "I Remade AVATAR and DESTROYED my PC!",
+        "I added ACCURATE DINOSAURS into the JURASSIC PARK Franchise!",
+        "EVOLUTION of MECHAGODZILLA: GODZILLA Size Comparison (1974-2021)",
+        "EVOLUTION of T-REX in MOVIES & TV: Size Comparison (1918-2022)",
+        "EVOLUTION of GODZILLA'S ATOMIC BREATH: Comparison (1954-2021)",
+        "MONSTERS of GODZILLA VS KONG: Size Comparison (2021)",
+        "CARNIVORES of JURASSIC PARK | JURASSIC WORLD: Size Comparison (1993-2018)",
+        "EVOLUTION of KING GHIDORAH: GODZILLA Size Comparison (1964-2019)",
+        "EVOLUTION of IRON MAN: MCU Suit Comparison (2008-2019)",
+        "How Godzilla VS Kong Will End",
+        "EVOLUTION of MECHAGODZILLA: Size Comparison (1974-2018)",
+        "EVOLUTION OF GODZILLA'S MONSTERVERSE: Titans Size Comparison (2014-2019)",
+        "EVOLUTION of SHIN GODZILLA: Size Comparison",
+        "EVOLUTION of ALIEN: XENOMORPH Size Comparison (1979-2019)",
+        "EVOLUTION of WORLD'S TALLEST BUILDING: Size Comparison (1901-2022)"
+    ],
+    "overperformers": [
+    ],
+    "relatedoverperformers": [
+      "DESPICABLE ME 4 - Official Trailer (2024) Minions",
+      "Deadpool & Wolverine | Official Teaser | In Theaters July 26",
+      "The Visual Effects of Godzilla Minus One",
+      "KNUCKLES Trailer (NEW 2024) Sonic Spin-off Series HD",
+      "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc Season 4 Trailer",
+      "GODZILLA X KONG: The New Empire - 'Mama Said Knock You Out' Trailer [HD] (Edit)",
+      "ROAD HOUSE | Behind the Action of an inconic remake",
+      "Megalodon Eats Titan Submersible Godzilla Enters Scene",
+      "State of Play | January 31, 2024",
+      "The Death Of President Kennedy | The Crown (Claire Foy, Matthew Goode)",
+      "Battle Of Austerlitz Scene | NAPOLEON (2023) Joaquin Phoenix, Movie CLIP HD",
+      "KUNG FU PANDA 4 All Movie Clips (2024)",
+      "Tekken 8 - All Special Interactions",
+      "BEST UPCOMING MOVIES 2024 (New Trailers)",
+      "All SUPER BOWL 2024 Movie Trailers (Best Upcoming Movies)"
+    ],
+    "concepts": [
+        "Filmcore provides a detailed comparison of the varying sizes of the character King Kong across films and shows from 1933 to 2024, highlighting significant jumps like his 337-feet height in the 2021 'Godzilla vs Kong'.",
+        "Filmcore documents his attempt to recreate the 2004 game 'Godzilla Save the Earth's' cinematic introduction, carefully sculpting and animating various characters, and ends with a showcase of the final product.",
+        "Filmcore documents their attempt to recreate the CGI of Avatar using a gaming PC and Unreal Engine, battling through challenges such as sculpting models, buying 3D scans, incorporating motion capture, and scene building.",
+        "Filmcore demonstrates the process of updating dinosaur models in Jurassic Park scenes to reflect accurate paleontological understanding, addressing debates and using 3D scans of real fossils with modern software.",
+        "Filmcore provides a detailed analysis of the evolution of Iron Man's suit designs within the Marvel Cinematic Universe from 2008 to 2019, highlighting technological improvements and concluding with the quantum suit designed for inter-universe travel."
+    ],
+    "title_criteria": [
+        {
+          "text": "Broad Tech Integration: Titles must reference or imply the use of current or speculative technology within the content. This includes any form of technology, not limited to AI, VR, or space exploration, and how it intersects with sci-fi and fantasy narratives.",
+          "passing": [
+            "EVOLUTION of KING KONG: Size Comparison (1933-2024)",
+            "GODZILLA vs KIRYU, GHIDORAH, MEGALON and GIGAN",
+            "Can I REMAKE the BEST GODZILLA Animation in 30 DAYS?",
+            "I Remade AVATAR and DESTROYED my PC!",
+            "I added ACCURATE DINOSAURS into the JURASSIC PARK Franchise!",
+            "EVOLUTION of MECHAGODZILLA: GODZILLA Size Comparison (1974-2021)",
+            "EVOLUTION of T-REX in MOVIES & TV: Size Comparison (1918-2022)",
+            "EVOLUTION of GODZILLA'S ATOMIC BREATH: Comparison (1954-2021)",
+            "MONSTERS of GODZILLA VS KONG: Size Comparison (2021)",
+            "CARNIVORES of JURASSIC PARK | JURASSIC WORLD: Size Comparison (1993-2018)",
+            "EVOLUTION of KING GHIDORAH: GODZILLA Size Comparison (1964-2019)",
+            "EVOLUTION of IRON MAN: MCU Suit Comparison (2008-2019)",
+            "How Godzilla VS Kong Will End",
+            "EVOLUTION of MECHAGODZILLA: Size Comparison (1974-2018)",
+            "EVOLUTION OF GODZILLA'S MONSTERVERSE: Titans Size Comparison (2014-2019)",
+            "EVOLUTION of SHIN GODZILLA: Size Comparison",
+            "EVOLUTION of ALIEN: XENOMORPH Size Comparison (1979-2019)"
+          ],
+          "failing": [
+            "EVOLUTION of WORLD'S TALLEST BUILDING: Size Comparison (1901-2022)"
+          ]
+        },
+        {
+          "text": "Emotional Resonance and Relatability: Titles should evoke an emotional connection or offer relatable scenarios within the sci-fi and fantasy contexts, encouraging viewers to share personal experiences, feelings, or how certain narratives have impacted their worldview. This includes titles that hint at exploring the human condition through sci-fi and fantasy lenses, the emotional journeys of characters, or how these stories reflect our own realities and dreams.",
+          "passing": [
+            "EVOLUTION of KING KONG: Size Comparison (1933-2024)",
+            "GODZILLA vs KIRYU, GHIDORAH, MEGALON and GIGAN",
+            "Can I REMAKE the BEST GODZILLA Animation in 30 DAYS?",
+            "I Remade AVATAR and DESTROYED my PC!",
+            "I added ACCURATE DINOSAURS into the JURASSIC PARK Franchise!",
+            "EVOLUTION of MECHAGODZILLA: GODZILLA Size Comparison (1974-2021)",
+            "EVOLUTION of T-REX in MOVIES & TV: Size Comparison (1918-2022)",
+            "EVOLUTION of GODZILLA'S ATOMIC BREATH: Comparison (1954-2021)",
+            "MONSTERS of GODZILLA VS KONG: Size Comparison (2021)",
+            "CARNIVORES of JURASSIC PARK | JURASSIC WORLD: Size Comparison (1993-2018)",
+            "EVOLUTION of KING GHIDORAH: GODZILLA Size Comparison (1964-2019)",
+            "EVOLUTION of IRON MAN: MCU Suit Comparison (2008-2019)",
+            "How Godzilla VS Kong Will End",
+            "EVOLUTION of MECHAGODZILLA: Size Comparison (1974-2018)",
+            "EVOLUTION OF GODZILLA'S MONSTERVERSE: Titans Size Comparison (2014-2019)",
+            "EVOLUTION of SHIN GODZILLA: Size Comparison",
+            "EVOLUTION of ALIEN: XENOMORPH Size Comparison (1979-2019)",
+            "EVOLUTION of WORLD'S TALLEST BUILDING: Size Comparison (1901-2022)"
+          ],
+          "failing": []
+        },
+        {
+          "text": "Historical & Genre Connections: Titles should connect sci-fi and fantasy content with any significant historical, societal, or technological context, not necessarily drawing direct parallels but highlighting influences or inspirations.",
+          "passing": [
+            "EVOLUTION of KING KONG: Size Comparison (1933-2024)",
+            "Can I REMAKE the BEST GODZILLA Animation in 30 DAYS?",
+            "EVOLUTION of MECHAGODZILLA: GODZILLA Size Comparison (1974-2021)",
+            "EVOLUTION of T-REX in MOVIES & TV: Size Comparison (1918-2022)",
+            "EVOLUTION of GODZILLA'S ATOMIC BREATH: Comparison (1954-2021)",
+            "MONSTERS of GODZILLA VS KONG: Size Comparison (2021)",
+            "CARNIVORES of JURASSIC PARK | JURASSIC WORLD: Size Comparison (1993-2018)",
+            "EVOLUTION of KING GHIDORAH: GODZILLA Size Comparison (1964-2019)",
+            "EVOLUTION of IRON MAN: MCU Suit Comparison (2008-2019)",
+            "EVOLUTION of MECHAGODZILLA: Size Comparison (1974-2018)",
+            "EVOLUTION OF GODZILLA'S MONSTERVERSE: Titans Size Comparison (2014-2019)",
+            "EVOLUTION of ALIEN: XENOMORPH Size Comparison (1979-2019)",
+            "EVOLUTION of WORLD'S TALLEST BUILDING: Size Comparison (1901-2022)"
+          ],
+          "failing": [
+            "GODZILLA vs KIRYU, GHIDORAH, MEGALON and GIGAN",
+            "I Remade AVATAR and DESTROYED my PC!",
+            "I added ACCURATE DINOSAURS into the JURASSIC PARK Franchise!",
+            "How Godzilla VS Kong Will End",
+            "EVOLUTION of SHIN GODZILLA: Size Comparison"
+          ]
+        },
+        {
+          "text": "Creative Process Engagement: Titles must suggest or imply engagement with the creation or reimagining of sci-fi and fantasy content, including personal projects, challenges, or speculative redesigns, encouraging viewer interaction or reflection on the creative process.",
+          "passing": [
+            "EVOLUTION of KING KONG: Size Comparison (1933-2024)",
+            "Can I REMAKE the BEST GODZILLA Animation in 30 DAYS?",
+            "I Remade AVATAR and DESTROYED my PC!",
+            "I added ACCURATE DINOSAURS into the JURASSIC PARK Franchise!",
+            "EVOLUTION of MECHAGODZILLA: GODZILLA Size Comparison (1974-2021)",
+            "EVOLUTION of T-REX in MOVIES & TV: Size Comparison (1918-2022)",
+            "EVOLUTION of GODZILLA'S ATOMIC BREATH: Comparison (1954-2021)",
+            "MONSTERS of GODZILLA VS KONG: Size Comparison (2021)",
+            "CARNIVORES of JURASSIC PARK | JURASSIC WORLD: Size Comparison (1993-2018)",
+            "EVOLUTION of KING GHIDORAH: GODZILLA Size Comparison (1964-2019)",
+            "EVOLUTION of IRON MAN: MCU Suit Comparison (2008-2019)",
+            "EVOLUTION of MECHAGODZILLA: Size Comparison (1974-2018)",
+            "EVOLUTION OF GODZILLA'S MONSTERVERSE: Titans Size Comparison (2014-2019)",
+            "EVOLUTION of SHIN GODZILLA: Size Comparison",
+            "EVOLUTION of ALIEN: XENOMORPH Size Comparison (1979-2019)",
+            "EVOLUTION of WORLD'S TALLEST BUILDING: Size Comparison (1901-2022)"
+          ],
+          "failing": [
+            "GODZILLA vs KIRYU, GHIDORAH, MEGALON and GIGAN",
+            "How Godzilla VS Kong Will End"
+          ]
+        },
+        {
+          "text": "Creative Scenarios and Comparisons: Titles can suggest the creation of new content, hypothetical scenarios, the remaking of existing content with a new twist, or comparisons that include a broad range of subjects beyond fictional characters.",
+          "passing": [
+            "EVOLUTION of KING KONG: Size Comparison (1933-2024)",
+            "GODZILLA vs KIRYU, GHIDORAH, MEGALON and GIGAN",
+            "Can I REMAKE the BEST GODZILLA Animation in 30 DAYS?",
+            "I Remade AVATAR and DESTROYED my PC!",
+            "I added ACCURATE DINOSAURS into the JURASSIC PARK Franchise!",
+            "EVOLUTION of MECHAGODZILLA: GODZILLA Size Comparison (1974-2021)",
+            "EVOLUTION of T-REX in MOVIES & TV: Size Comparison (1918-2022)",
+            "EVOLUTION of GODZILLA'S ATOMIC BREATH: Comparison (1954-2021)",
+            "MONSTERS of GODZILLA VS KONG: Size Comparison (2021)",
+            "CARNIVORES of JURASSIC PARK | JURASSIC WORLD: Size Comparison (1993-2018)",
+            "EVOLUTION of KING GHIDORAH: GODZILLA Size Comparison (1964-2019)",
+            "EVOLUTION of IRON MAN: MCU Suit Comparison (2008-2019)",
+            "How Godzilla VS Kong Will End",
+            "EVOLUTION of MECHAGODZILLA: Size Comparison (1974-2018)",
+            "EVOLUTION OF GODZILLA'S MONSTERVERSE: Titans Size Comparison (2014-2019)",
+            "EVOLUTION of SHIN GODZILLA: Size Comparison",
+            "EVOLUTION of ALIEN: XENOMORPH Size Comparison (1979-2019)",
+            "EVOLUTION of WORLD'S TALLEST BUILDING: Size Comparison (1901-2022)"
+          ],
+          "failing": []
+        },
+        {
+          "text": "Speculative Tech Discussion: Titles should hint at discussions, speculations, or explorations of technology, ethics, or future scenarios within sci-fi and fantasy contexts, without the need for explicit mention of ethical implications or governance.",
+          "passing": [
+            "EVOLUTION of KING KONG: Size Comparison (1933-2024)",
+            "GODZILLA vs KIRYU, GHIDORAH, MEGALON and GIGAN",
+            "Can I REMAKE the BEST GODZILLA Animation in 30 DAYS?",
+            "I Remade AVATAR and DESTROYED my PC!",
+            "I added ACCURATE DINOSAURS into the JURASSIC PARK Franchise!",
+            "EVOLUTION of MECHAGODZILLA: GODZILLA Size Comparison (1974-2021)",
+            "EVOLUTION of T-REX in MOVIES & TV: Size Comparison (1918-2022)",
+            "EVOLUTION of GODZILLA'S ATOMIC BREATH: Comparison (1954-2021)",
+            "MONSTERS of GODZILLA VS KONG: Size Comparison (2021)",
+            "CARNIVORES of JURASSIC PARK | JURASSIC WORLD: Size Comparison (1993-2018)",
+            "EVOLUTION of KING GHIDORAH: GODZILLA Size Comparison (1964-2019)",
+            "EVOLUTION of IRON MAN: MCU Suit Comparison (2008-2019)",
+            "How Godzilla VS Kong Will End",
+            "EVOLUTION of MECHAGODZILLA: Size Comparison (1974-2018)",
+            "EVOLUTION OF GODZILLA'S MONSTERVERSE: Titans Size Comparison (2014-2019)",
+            "EVOLUTION of SHIN GODZILLA: Size Comparison",
+            "EVOLUTION of ALIEN: XENOMORPH Size Comparison (1979-2019)"
+          ],
+          "failing": [
+            "EVOLUTION of WORLD'S TALLEST BUILDING: Size Comparison (1901-2022)"
+          ]
+        },
+        {
+          "text": "Inclusion of Dynamic Elements: Titles may hint at action, conflict, comparisons, or dynamic narratives, such as battles, confrontations between characters, or significant transformations and evolutions, to suggest engaging content.",
+          "passing": [
+            "EVOLUTION of KING KONG: Size Comparison (1933-2024)",
+            "GODZILLA vs KIRYU, GHIDORAH, MEGALON and GIGAN",
+            "Can I REMAKE the BEST GODZILLA Animation in 30 DAYS?",
+            "I Remade AVATAR and DESTROYED my PC!",
+            "I added ACCURATE DINOSAURS into the JURASSIC PARK Franchise!",
+            "EVOLUTION of MECHAGODZILLA: GODZILLA Size Comparison (1974-2021)",
+            "EVOLUTION of T-REX in MOVIES & TV: Size Comparison (1918-2022)",
+            "EVOLUTION of GODZILLA'S ATOMIC BREATH: Comparison (1954-2021)",
+            "MONSTERS of GODZILLA VS KONG: Size Comparison (2021)",
+            "CARNIVORES of JURASSIC PARK | JURASSIC WORLD: Size Comparison (1993-2018)",
+            "EVOLUTION of KING GHIDORAH: GODZILLA Size Comparison (1964-2019)",
+            "EVOLUTION of IRON MAN: MCU Suit Comparison (2008-2019)",
+            "How Godzilla VS Kong Will End",
+            "EVOLUTION of MECHAGODZILLA: Size Comparison (1974-2018)",
+            "EVOLUTION OF GODZILLA'S MONSTERVERSE: Titans Size Comparison (2014-2019)",
+            "EVOLUTION of SHIN GODZILLA: Size Comparison",
+            "EVOLUTION of ALIEN: XENOMORPH Size Comparison (1979-2019)",
+            "EVOLUTION of WORLD'S TALLEST BUILDING: Size Comparison (1901-2022)"
+          ],
+          "failing": []
+        }
+      ],
+    "concept_criteria": [
+        {
+          "text": "Interactivity and Creative Engagement: The video concept should foster viewer engagement through creative means, including but not limited to polls, comments, or social media interaction. It should focus on topics that not only invite viewers to share their opinions, theories, or personal recreations but also include detailed analyses, comparisons, or recreations related to any genre, including science fiction, fantasy, and beyond. This criterion is met as long as the content encourages active viewer participation and discussion.",
+          "passing": [
+            "Filmcore provides a detailed comparison of the varying sizes of the character King Kong across films and shows from 1933 to 2024, highlighting significant jumps like his 337-feet height in the 2021 'Godzilla vs Kong'.",
+            "Filmcore documents his attempt to recreate the 2004 game 'Godzilla Save the Earth's' cinematic introduction, carefully sculpting and animating various characters, and ends with a showcase of the final product.",
+            "Filmcore documents their attempt to recreate the CGI of Avatar using a gaming PC and Unreal Engine, battling through challenges such as sculpting models, buying 3D scans, incorporating motion capture, and scene building.",
+            "Filmcore demonstrates the process of updating dinosaur models in Jurassic Park scenes to reflect accurate paleontological understanding, addressing debates and using 3D scans of real fossils with modern software.",
+            "Filmcore provides a detailed analysis of the evolution of Iron Man's suit designs within the Marvel Cinematic Universe from 2008 to 2019, highlighting technological improvements and concluding with the quantum suit designed for inter-universe travel."
+          ],
+          "failing": []
+        },
+        {
+          "text": "Speculative Analysis, Creative Reimagining, and Recreation: The video concept should explore the speculative aspects of science fiction and fantasy elements, including creative reimaginings, detailed comparisons within these genres, or the recreation of iconic scenes, characters, or universes. This can involve using current scientific theories, advancements, or hypothetical technologies to analyze, compare, recreate, or document attempts to bring these elements to life through practical projects. The goal is to blend the imaginative with the plausible, the creative process, or the recreation effort, offering viewers a unique perspective that either grounds fantastical elements in potential reality, showcases the effort to recreate these elements, or both, thereby appealing to genre enthusiasts, science or technology buffs, and fans of creative projects.",
+          "passing": [
+            "Filmcore provides a detailed comparison of the varying sizes of the character King Kong across films and shows from 1933 to 2024, highlighting significant jumps like his 337-feet height in the 2021 'Godzilla vs Kong'.",
+            "Filmcore documents his attempt to recreate the 2004 game 'Godzilla Save the Earth's' cinematic introduction, carefully sculpting and animating various characters, and ends with a showcase of the final product.",
+            "Filmcore documents their attempt to recreate the CGI of Avatar using a gaming PC and Unreal Engine, battling through challenges such as sculpting models, buying 3D scans, incorporating motion capture, and scene building.",
+            "Filmcore demonstrates the process of updating dinosaur models in Jurassic Park scenes to reflect accurate paleontological understanding, addressing debates and using 3D scans of real fossils with modern software.",
+            "Filmcore provides a detailed analysis of the evolution of Iron Man's suit designs within the Marvel Cinematic Universe from 2008 to 2019, highlighting technological improvements and concluding with the quantum suit designed for inter-universe travel."
+          ],
+          "failing": []
+        },
+        {
+          "text": "Technology and Science Integration: The video should incorporate modern technology, software, or scientific insights to analyze, compare, or recreate elements, without the necessity of showcasing new technology or scientific knowledge.",
+          "passing": [
+            "Filmcore provides a detailed comparison of the varying sizes of the character King Kong across films and shows from 1933 to 2024, highlighting significant jumps like his 337-feet height in the 2021 'Godzilla vs Kong'.",
+            "Filmcore documents his attempt to recreate the 2004 game 'Godzilla Save the Earth's' cinematic introduction, carefully sculpting and animating various characters, and ends with a showcase of the final product.",
+            "Filmcore documents their attempt to recreate the CGI of Avatar using a gaming PC and Unreal Engine, battling through challenges such as sculpting models, buying 3D scans, incorporating motion capture, and scene building.",
+            "Filmcore demonstrates the process of updating dinosaur models in Jurassic Park scenes to reflect accurate paleontological understanding, addressing debates and using 3D scans of real fossils with modern software.",
+            "Filmcore provides a detailed analysis of the evolution of Iron Man's suit designs within the Marvel Cinematic Universe from 2008 to 2019, highlighting technological improvements and concluding with the quantum suit designed for inter-universe travel."
+          ],
+          "failing": []
+        },
+        {
+          "text": "Creative Analysis and Recreation: The concept must involve a creative approach to analyzing, comparing, or recreating scenes, characters, or elements from existing works, including detailed comparisons and technological evolution.",
+          "passing": [
+            "Filmcore provides a detailed comparison of the varying sizes of the character King Kong across films and shows from 1933 to 2024, highlighting significant jumps like his 337-feet height in the 2021 'Godzilla vs Kong'.",
+            "Filmcore documents his attempt to recreate the 2004 game 'Godzilla Save the Earth's' cinematic introduction, carefully sculpting and animating various characters, and ends with a showcase of the final product.",
+            "Filmcore documents their attempt to recreate the CGI of Avatar using a gaming PC and Unreal Engine, battling through challenges such as sculpting models, buying 3D scans, incorporating motion capture, and scene building.",
+            "Filmcore demonstrates the process of updating dinosaur models in Jurassic Park scenes to reflect accurate paleontological understanding, addressing debates and using 3D scans of real fossils with modern software.",
+            "Filmcore provides a detailed analysis of the evolution of Iron Man's suit designs within the Marvel Cinematic Universe from 2008 to 2019, highlighting technological improvements and concluding with the quantum suit designed for inter-universe travel."
+          ],
+          "failing": []
+        },
+        {
+          "text": "Educational value: The video should provide viewers with insights, facts, or knowledge about the subject matter that they might not have known before.",
+          "passing": [
+            "Filmcore provides a detailed comparison of the varying sizes of the character King Kong across films and shows from 1933 to 2024, highlighting significant jumps like his 337-feet height in the 2021 'Godzilla vs Kong'.",
+            "Filmcore documents his attempt to recreate the 2004 game 'Godzilla Save the Earth's' cinematic introduction, carefully sculpting and animating various characters, and ends with a showcase of the final product.",
+            "Filmcore documents their attempt to recreate the CGI of Avatar using a gaming PC and Unreal Engine, battling through challenges such as sculpting models, buying 3D scans, incorporating motion capture, and scene building.",
+            "Filmcore demonstrates the process of updating dinosaur models in Jurassic Park scenes to reflect accurate paleontological understanding, addressing debates and using 3D scans of real fossils with modern software.",
+            "Filmcore provides a detailed analysis of the evolution of Iron Man's suit designs within the Marvel Cinematic Universe from 2008 to 2019, highlighting technological improvements and concluding with the quantum suit designed for inter-universe travel."
+          ],
+          "failing": []
+        },
+        {
+          "text": "Narrative Innovation and World-Building: The video concept should include original content that demonstrates innovative storytelling, detailed analyses, recreations, or world-building techniques that enrich or offer new perspectives within any established universe. This includes creating complex backstories, exploring hypothetical scenarios, constructing detailed lore, providing in-depth analyses, and recreations that complement the original works. Additionally, detailed comparisons and explorations of character developments, including size, abilities, and other characteristics across different media, are encouraged to offer viewers a deeper and more immersive experience.",
+          "passing": [
+            "Filmcore provides a detailed comparison of the varying sizes of the character King Kong across films and shows from 1933 to 2024, highlighting significant jumps like his 337-feet height in the 2021 'Godzilla vs Kong'.",
+            "Filmcore documents his attempt to recreate the 2004 game 'Godzilla Save the Earth's' cinematic introduction, carefully sculpting and animating various characters, and ends with a showcase of the final product.",
+            "Filmcore documents their attempt to recreate the CGI of Avatar using a gaming PC and Unreal Engine, battling through challenges such as sculpting models, buying 3D scans, incorporating motion capture, and scene building.",
+            "Filmcore demonstrates the process of updating dinosaur models in Jurassic Park scenes to reflect accurate paleontological understanding, addressing debates and using 3D scans of real fossils with modern software.",
+            "Filmcore provides a detailed analysis of the evolution of Iron Man's suit designs within the Marvel Cinematic Universe from 2008 to 2019, highlighting technological improvements and concluding with the quantum suit designed for inter-universe travel."
+          ],
+          "failing": []
+        },
+        {
+          "text": "Focus on iconic or significant elements: The video must focus on iconic, significant, or widely recognized elements from films, shows, or games within the genres, ensuring high viewer interest and engagement.",
+          "passing": [
+            "Filmcore provides a detailed comparison of the varying sizes of the character King Kong across films and shows from 1933 to 2024, highlighting significant jumps like his 337-feet height in the 2021 'Godzilla vs Kong'.",
+            "Filmcore documents his attempt to recreate the 2004 game 'Godzilla Save the Earth's' cinematic introduction, carefully sculpting and animating various characters, and ends with a showcase of the final product.",
+            "Filmcore documents their attempt to recreate the CGI of Avatar using a gaming PC and Unreal Engine, battling through challenges such as sculpting models, buying 3D scans, incorporating motion capture, and scene building.",
+            "Filmcore demonstrates the process of updating dinosaur models in Jurassic Park scenes to reflect accurate paleontological understanding, addressing debates and using 3D scans of real fossils with modern software.",
+            "Filmcore provides a detailed analysis of the evolution of Iron Man's suit designs within the Marvel Cinematic Universe from 2008 to 2019, highlighting technological improvements and concluding with the quantum suit designed for inter-universe travel."
+          ],
+          "failing": []
+        }
+      ]
+}
