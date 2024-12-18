@@ -9,8 +9,8 @@ Interactive Streamlit app with three features:
 2. Analyze user-provided video concepts
 3. Analyze video titles
 
-![example analysis](./data/example_01.png)
 *example analysis*
+![example analysis](./data/example_01.png)
 
 ### Setup
 
